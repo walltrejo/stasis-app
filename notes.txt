@@ -1,0 +1,25 @@
+# Assignment and Dial
+
+# Calendar Based Rules
+
+# Time Based Rules
+
+# Callback
+
+# Conditional Statement
+
+# Estimated Waiting Time
+
+# Forward to External Numbers
+
+# Hangup Call
+
+
+# Play Audio
+#### Text to Speech, Audio File, Link to a File
+####### Tex to Speech (Language and Text to Speech)
+
+
+# Voicemail
+
+# Standard IVR
