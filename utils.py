@@ -5,10 +5,10 @@ import logging
 
 import aiohttp
 
-VOIP_API_USER = os.getenv('VOIP_API_USER', default="wtrejo")
-VOIP_API_PASS = os.getenv('VOIP_API_PASS', default="v0ic3")
-VOIP_API_HOST = os.getenv('VOIP_API_HOST', default="trejosoft.com")
-VOIP_API_PORT = os.getenv('VOIP_API_PORT', default="28088")
+VOIP_API_USER = os.getenv('VOIP_API_USER', default="username")
+VOIP_API_PASS = os.getenv('VOIP_API_PASS', default="password")
+VOIP_API_HOST = os.getenv('VOIP_API_HOST', default="localhost")
+VOIP_API_PORT = os.getenv('VOIP_API_PORT', default="8088")
 VOIP_API_APP = os.getenv('VOIP_API_APP', "ivr-handler")
 
 logger = logging.getLogger('ivr-handler')
